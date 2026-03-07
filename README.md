@@ -100,7 +100,7 @@ Select action:
 
 Simply run the script:
 ```bash
-./logman
+logman
 ```
 *Note: The script will prompt for your password to elevate to root if necessary.*
 
