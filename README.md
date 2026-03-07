@@ -82,7 +82,7 @@ Select action:
 
 1. **Clone or Download the script:**
    ```bash
-   git clone https://github.com/yourusername/logman.git
+   git clone https://github.com/nodefive/logman.git
    cd logman
    ```
 
@@ -109,4 +109,4 @@ Simply run the script:
 This tool performs administrative actions. Be cautious when using the **Truncate All** or **Clear Log** functions, as they will permanently remove log data that may be useful for debugging.
 
 ---
-**Maintained by [Your Name/Github]**
+**Maintained by [nodefive]**
